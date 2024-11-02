@@ -29,7 +29,6 @@
     {
       "tag": "🛫 我的机场",
       "type": "remote",
-      // 修改为你的 Clash 订阅链接
       "download_url": "https://sub.boring1998.top/Boring",
       "path": "./providers/airport.yaml",
       "download_interval": "24h",
