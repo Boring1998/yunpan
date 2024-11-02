@@ -2,7 +2,7 @@ proxy-providers:
   🛫 我的机场:
     type: http
     ## 修改为你的 Clash 订阅链接
-    url: "https://sub.boring1998.top/Boring"
+    url: " https://sub.boring1998.top/Boring"
     path: ./proxies/airport.yaml
     interval: 86400
     filter: "🇭🇰|🇹🇼|🇯🇵|🇰🇷|🇸🇬|🇺🇸"
