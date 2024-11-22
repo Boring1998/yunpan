@@ -40,7 +40,7 @@
       "tag": "🛫 我的机场",
       "type": "remote",
       // 修改为你的 Clash 订阅链接
-      "download_url": "https://sub.boring1998.top/Boring",
+      "download_url": "https://login.yfjc.xyz/api/v1/client/subscribe?token=9574d394381486ea06d474070c2146a7&flag=meta",
       "path": "./providers/airport.yaml",
       "download_interval": "24h",
       "download_ua": "clash.meta",
